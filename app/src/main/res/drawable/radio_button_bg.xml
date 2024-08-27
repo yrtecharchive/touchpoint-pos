@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF"/> <!-- Background color of the RadioButton -->
+    <corners android:radius="24dp"/> <!-- Rounded corners for the RadioButton -->
+    <stroke android:color="#5EA9DB" android:width="2dp"/> <!-- Border color and width -->
+</shape>
